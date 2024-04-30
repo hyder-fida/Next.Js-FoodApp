@@ -31,9 +31,13 @@
   .meal p {
     margin: 0;
   }
+
+  .meal header {
+    position: relative;
+  }
   
   .image {
-    position: relative;
+   
     height: 15rem;
   }
   
